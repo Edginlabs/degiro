@@ -1,6 +1,6 @@
-module github.com/llehouerou/go-degiro
+module github.com/tomeys/go-degiro
 
-go 1.13
+go 1.16
 
 require (
 	github.com/dghubble/sling v1.3.0

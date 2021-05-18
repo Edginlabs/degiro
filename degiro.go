@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/dghubble/sling"
-	"github.com/llehouerou/go-degiro/degiro/streaming"
 	log "github.com/sirupsen/logrus"
+	"github.com/tomeys/go-degiro/streaming"
 )
 
 const baseUrl = "https://trader.degiro.nl"

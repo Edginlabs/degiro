@@ -4,7 +4,7 @@ go-degiro is a Go client library for the unofficial Degiro API & Vwd streaming A
 
 ## Install
 
-go get github.com/llehouerou/go-degiro
+go get github.com/tomeys/go-degiro
 
 ## Usage
 

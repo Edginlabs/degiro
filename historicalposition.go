@@ -4,7 +4,7 @@ import (
 	"sort"
 	"time"
 
-	"github.com/llehouerou/go-degiro/degiro/streaming"
+	"github.com/tomeys/go-degiro/streaming"
 
 	log "github.com/sirupsen/logrus"
 
