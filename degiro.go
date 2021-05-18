@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/TOMEYS/go-degiro/streaming"
+	"github.com/TOMEYS/degiro/streaming"
 	"github.com/dghubble/sling"
 	log "github.com/sirupsen/logrus"
 )

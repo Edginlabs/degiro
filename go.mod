@@ -1,4 +1,4 @@
-module github.com/TOMEYS/go-degiro
+module github.com/TOMEYS/degiro
 
 go 1.16
 
