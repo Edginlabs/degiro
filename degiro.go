@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
+	"github.com/TOMEYS/go-degiro/streaming"
 	"github.com/dghubble/sling"
 	log "github.com/sirupsen/logrus"
-	"github.com/tomeys/go-degiro/streaming"
 )
 
 const baseUrl = "https://trader.degiro.nl"
